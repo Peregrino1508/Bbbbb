@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.8",
+  "Version": "0.0.9",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "Vivo br r65g",
+      "Name": "VIVO E TIM BR",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "secury.r6aresix.net",
