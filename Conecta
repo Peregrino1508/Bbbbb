@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.7",
+  "Version": "0.0.8",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -47,24 +47,14 @@
       "Info": "Proxy"
     },
     {
-      "Name": "DESATIVADO",
+      "Name": "🔵TIM SECURITY🔵",
       "FLAG": "tim",
-      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "emartim.com.br",
-      "TlsIP": "104.21.27.243",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "DESATIVADO",
-      "FLAG": "tim",
-      "Payload": "GET ws://cutim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "cutim.com.br",
-      "TlsIP": "104.21.4.149",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
+      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "177.153.59.224",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "DESATIVADO",
