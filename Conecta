@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.5",
+  "Version": "0.0.6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "hshshsjnsj",
@@ -29,7 +29,7 @@
     {
       "Name": "💙TIM EXPIRADO SECURY💙",
       "FLAG": "tim",
-      "Payload": "[split][lf]ACL / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "ghsshh",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
