@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.6",
+  "Version": "0.0.7",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR VIVO R65G BR",
+      "Name": "Vivo br r65g",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "secury.r6aresix.net",
