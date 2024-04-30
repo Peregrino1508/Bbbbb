@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.10",
+  "Version": "0.0.11",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -39,7 +39,7 @@
     {
       "Name": "🟣VIVO PRÉ SECURY 2🟣",
       "FLAG": "vivo",
-      "Payload": "[split]PUT / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "[delay_split]CONNECT http://portalrecarga.vivo.com.br/recarga/home/ HTTP/1.1[lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
