@@ -37,7 +37,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🟣VIVO PRÉ SECURY 2🟣",
+      "Name": "🟣VIVO PRÉ SECURY🟣",
       "FLAG": "vivo",
       "Payload": "[delay_split]CONNECT http://portalrecarga.vivo.com.br/recarga/home/ HTTP/1.1[lf]",
       "SNI": "",
