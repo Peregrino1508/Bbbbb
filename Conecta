@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.13",
+  "Version": "0.0.14",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONÍVEL VIVO SECURY 1 E 2",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "secury.r6aresix.net",
-      "CheckUser": "http://200.9.154.223:5454/checkUser",
+      "CheckUser": "http://177.153.59.224:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
