@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.14",
+  "Version": "0.0.15",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONÍVEL VIVO SECURY 1 E 2",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -33,7 +33,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -43,7 +43,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -53,7 +53,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -63,7 +63,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
