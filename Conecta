@@ -1,6 +1,6 @@
 {
-  "Version": "0.0.17",
-  "ReleaseNotes": "ATUALIZAÇÃO DISPONÍVEL VIVO SECURY 1 E 2",
+  "Version": "0.0.18",
+  "ReleaseNotes": "ATUALIZAÇÃO DISPONÍVEL OPERADORA TIM",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
   "EmailFeedback": "osprepara2@gmail.com",
@@ -59,11 +59,11 @@
     {
       "Name": "🔵TIM SECURITY🔵",
       "FLAG": "tim",
-      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
