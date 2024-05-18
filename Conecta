@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.22",
+  "Version": "0.0.23",
   "ReleaseNotes": "ATUALIZAÇÃO DISPONÍVEL OPERADORA TIM",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -67,7 +67,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "TIM",
+      "Name": "DESATIVADO",
       "FLAG": "vivo",
       "Payload": "ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf][split]ACL / HTTP/1.1[crlf]Host: cdn.brandmetrics.com[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: secury.r6aresix.net[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]TMYSSH[crlf][crlf]",
       "SNI": "",
