@@ -1,6 +1,6 @@
 {
-  "Version": "0.0.29",
-  "ReleaseNotes": "ATUALIZACAO DISPONÍVEL (CLARO TESTE)",
+  "Version": "0.0.30",
+  "ReleaseNotes": "ATUALIZACAO DISPONÍVEL DE ROTINA",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
   "EmailFeedback": "osprepara2@gmail.com",
@@ -65,22 +65,6 @@
       "ProxyIP": "177.153.59.224",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": "CLARO TESTE",
-      "FLAG": "claro",
-      "Payload": "CONNECT / [app_host] [protocol]\r
-Host: minhaclaro.claro.com.br\r
-Connection: keep-alive\r
-Proxy-Connection: keep-alive\r
-X-Online-Host: minhaclaro.claro.com.br\r
-User-Agent: Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17[crlf][crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "177.153.59.224",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-     
     },
     {
       "Name": "DESATIVADO",
