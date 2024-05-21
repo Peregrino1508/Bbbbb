@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.28",
+  "Version": "0.0.29",
   "ReleaseNotes": "ATUALIZACAO DISPONÍVEL (VIVO EASY)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -69,7 +69,7 @@
     {
       "Name": "CLARO TESTE",
       "FLAG": "claro",
-      "Payload": "CONNECT / [host_port] [protocol]\r
+      "Payload": "CONNECT / [app_host] [protocol]\r
 Host: minhaclaro.claro.com.br\r
 Connection: keep-alive\r
 Proxy-Connection: keep-alive\r
