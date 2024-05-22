@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.30",
+  "Version": "0.0.31",
   "ReleaseNotes": "ATUALIZACAO DISPONÍVEL DE ROTINA",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -57,7 +57,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🔵TIM SECURITY🔵",
+      "Name": "🔵TIM SECURITY CREDITO EXPIRADO🔵",
       "FLAG": "tim",
       "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
       "SNI": "",
