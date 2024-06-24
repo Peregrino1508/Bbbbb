@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.34",
+  "Version": "35",
   "ReleaseNotes": "ATUALIZACAO DISPONÍVEL 🔵TIM SALDO NA VALIDADE🔵",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -57,7 +57,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🔵TIM SECURITY CREDITO EXPIRAD🔵",
+      "Name": "🔵TIM SECURITY CREDITO EXPIRADO🔵",
       "FLAG": "tim",
       "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
       "SNI": "",
