@@ -1,5 +1,5 @@
 {
-  "Version": "36",
+  "Version": "37",
   "ReleaseNotes": "ATUALIZACAO DISPONÍVEL 🔵TIM SALDO NA VALIDADE🔵",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -67,7 +67,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🔵TIM FLARE SAL.VAL🔵",
+      "Name": "🔵TIM FLARE SAL.VALIDO🔵",
       "FLAG": "tim",
       "Payload": "ACL wss://secury.r6aresix.net HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
