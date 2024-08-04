@@ -1,6 +1,6 @@
 {
-  "Version": "39",
-  "ReleaseNotes": "ATUALIZACAO DISPONÍVEL 🔵TIM FRONT SALDO NA VALIDADE🔵",
+  "Version": "40",
+  "ReleaseNotes": "ATUALIZACAO DISPONÍVEL 🔵TIM FRONT SALDO NA VALIDADE E EXPIRADO🔵",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
   "EmailFeedback": "osprepara2@gmail.com",
@@ -57,6 +57,16 @@
       "Info": "Proxy"
     },
     {
+      "Name": "💙TIM FRONT SAL.EXPIRADO 1💙",
+      "FLAG": "tim",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "checkout.timlive.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
       "Name": "🔵TIM SECURITY CREDITO EXPIRADO🔵",
       "FLAG": "tim",
       "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
@@ -75,16 +85,7 @@
       "ProxyIP": "172.64.154.143",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-      "Name": "💙TIM FRONT SAL.VALIDO 2💙",
-      "FLAG": "tim",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "checkout.timlive.tim.com.br",
-      "ProxyPort": "80",
-      "Info": "Direct"
+    
     }
   ]
 }
