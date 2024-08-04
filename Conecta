@@ -1,5 +1,5 @@
 {
-  "Version": "41",
+  "Version": "42",
   "ReleaseNotes": "ATUALIZACAO DISPONÍVEL 🔵TIM FRONT SALDO NA VALIDADE E EXPIRADO🔵",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -57,7 +57,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM FRONT SAL.EXPIRADO💙",
+      "Name": "💙TIM FRONT CRED.EXPIRADO💙",
       "FLAG": "tim",
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
