@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/refs/heads/main/r6vivo",
   "Sms": "https:",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "VIVO E TIM BR",
+      "Name": "R65G VIVO",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "secury.r6aresix.net",
@@ -54,36 +54,6 @@
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
       "ProxyPort": "8080",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "💙TIM FRONT CRED.EXPIRADO💙",
-      "FLAG": "tim",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "checkout.timlive.tim.com.br",
-      "ProxyPort": "80",
-      "Info": "Direct"
-    },
-    {
-      "Name": "🔵TIM SECURITY CREDITO EXPIRADO🔵",
-      "FLAG": "tim",
-      "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "177.153.59.224",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "🔵TIM FLARE SAL.VALIDO🔵",
-      "FLAG": "tim",
-      "Payload": "ACL wss://secury.r6aresix.net HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "172.64.154.143",
-      "ProxyPort": "80",
       "Info": "Proxy"
     
     }
