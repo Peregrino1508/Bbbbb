@@ -1,5 +1,5 @@
 {
-  "Version": "5",
+  "Version": "6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/refs/heads/main/r6vivo",
   "Sms": "https:",
@@ -47,9 +47,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🟣VIVO PRÉ SECURY 3🟣",
+      "Name": "🟣VIVO AQUARIUS ♾️🟣",
       "FLAG": "vivo",
-      "Payload": "[split]PUT / HTTP/1.1[crlf]Host: [rotate=m.wechat.com;m.whatsapp.net;redirector.gvt1.com][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "[split]ACL / HTTP/1.1[crlf]Upgrade: Websocket[lf]Host: aquarius.vivo.com.br[crlf]/[crlf]PATCH / HTTP/1.1[crlf]Host: lynx.vivo.com.br[crlf]Upgrade: Websocket[crlf][crlf",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
