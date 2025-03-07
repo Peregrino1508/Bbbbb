@@ -1,5 +1,5 @@
 {
-  "Version": "45",
+  "Version": "46",
   "ReleaseNotes": "ATUALIZACAO DISPONÍVEL 🟣VIVO AQUARIUS ♾️🟣",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/Bbbbb/main/Conecta",
   "Sms": "Vshdhdjdj",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "VIVO E TIM BR",
+      "Name": "VIVO",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "r6.r6aresix.site",
